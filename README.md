@@ -3,4 +3,4 @@
 
 棋盘如图所示：
 
-![棋盘演示](https://github.com/wss981086665/img-forder/blob/master/Haikesi/result.png)
+![棋盘演示](https://github.com/wss981086665/img-forder/blob/master/Haikesi/result.jpg)
